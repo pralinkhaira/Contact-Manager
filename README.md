@@ -7,7 +7,7 @@ This is a command-line interface (CLI) application for managing contacts. It all
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/contact-manager.git
+   git clone https://github.com/BitH0xker/Contact-Manager.git
    ```
 
 2. Install Python 3 if you haven't already. You can download it from the official website: https://www.python.org/downloads/
