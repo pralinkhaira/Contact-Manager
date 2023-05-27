@@ -69,3 +69,13 @@ This application requires Python 3 and the csv and os modules.
 ## License
 
 This project is licensed under the GNU License. See the [LICENSE](LICENSE) file for details.
+
+## Update Notes
+
+`Update V1.1 (28-05-2023)`
+
+- Input Validation: Added checks to ensure valid data entry for name, phone number, and email using regular expressions.
+- Error Handling: Implemented basic error handling to handle exceptions during file operations or user input, displaying error messages when necessary.
+- File Path Handling: The code assumes 'contacts.csv' is in the same directory, but can be modified to handle file paths dynamically.
+- Additional Contact Fields: Added 'address' and 'birthday' fields to the contact structure, updating CSV file structure and related functions.
+- Sorting and Filtering: Introduced 'Sort Contacts' menu option to sort contacts by name or phone number, displaying the sorted contacts.
